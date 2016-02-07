@@ -1,5 +1,5 @@
 name = "Example migrate"
-description = "Module to migrate my old site content to Drupal 7"
+description = "Module to migrate old site content to Drupal 7"
 package = "Migration"
 core = 7.x
 
