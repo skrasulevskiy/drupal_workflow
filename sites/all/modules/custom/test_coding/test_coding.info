@@ -1,0 +1,4 @@
+name = Test coding
+description = Test coding example.
+core = 7.x
+package = Custom modules

@@ -1,0 +1,6 @@
+<?php
+
+function _test_test($test)  {
+  $output = $test;
+       return $output;
+}
